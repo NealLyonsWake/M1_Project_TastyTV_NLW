@@ -8,7 +8,7 @@ Create a website for TastyTV that provides a 12 hour repeating streaming service
 
 ## Demo
 
-A demo of the website is available [here](https://yl3eb.csb.app/).
+A demo of the website is available [here](https://neallyonswake.github.io/csb-ty4k4/).
 
 ## UserStories
 
